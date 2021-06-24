@@ -3,8 +3,7 @@ import '../assets/styles/components/Footer.css';
 
 const Footer = () =>(
     <div className="footer">
-        <p className="footer-title">Platzi Conf Merch</p>
-        <p className="footer-copy">Derechos reservados</p>
+        <p className="footer-title">Gimsa</p>    
     </div>
 );
 

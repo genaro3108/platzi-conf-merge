@@ -1,0 +1,14 @@
+.cardsContainer{
+    display: flex;
+}
+
+.card{
+    display: block;
+    background-color: #DDD;
+    margin: 20px 0px 20px 40px;
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    width: 230px;
+    height: 250px;
+}
